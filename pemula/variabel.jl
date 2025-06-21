@@ -78,7 +78,7 @@ end
 a = [10, 20, 30, 40]
 z = [20, 40, 80, 120]
 #
-# rubah elemen satu di array a
+# rubah elemen kesatu di array a
 # rubah elemen keempat di array z
 a[1] = 50
 z[4] = 100
